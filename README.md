@@ -8,6 +8,20 @@ anything you would like so be creative (and school appropriate). Artwork must al
 For those of you who have dabbled in coding before, try to contain your code to 
 just what we have discussed in this unit. 
 
+## Example Output ## 
+```
+ _____________
+< AP CS Rocks >
+ -------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+                
+A cow exclaiming their love for computer science.                       
+```
+
 ## Learning Targets ## 
 I can demonstrate an understanding of procedural decomposition by writing static 
 method declarations and calling them within other methods.

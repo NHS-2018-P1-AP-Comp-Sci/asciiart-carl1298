@@ -15,3 +15,38 @@
  */
 
 // YOUR CODE GOES HERE :)
+
+public class ASCIIArt {
+	public static void main (String[] args) {
+		topTriangle();
+		theMiddle();
+		bottomTriangle();
+		System.out.println("");
+		System.out.println("This is a Superman sign.");
+		}
+		public static void topTriangle () {
+			System.out.println("       / \\        ");
+			System.out.println("     /     \\      ");
+			System.out.println("   /         \\    ");
+			System.out.println(" /             \\  ");
+			System.out.println("|       |       |  ");
+			System.out.println("|       |       |  ");
+			System.out.println("|       |       |  ");
+		}
+		public static void theMiddle () {
+			System.out.println(" \\       \\     / ");
+			System.out.println("   \\       \\  /  ");
+			System.out.println("  /  \\       \\   ");
+			System.out.println(" /      |      \\  ");
+		}
+		public static void bottomTriangle () {
+			System.out.println("|       |       |  ");
+			System.out.println("|       |       |  ");
+			System.out.println("|               |  ");
+			System.out.println("  \\            /  ");
+			System.out.println("    \\        /    ");
+			System.out.println("      \\    /      ");
+			System.out.println("        \\/        ");
+		}
+		
+	}
